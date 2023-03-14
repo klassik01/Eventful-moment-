@@ -28,7 +28,7 @@
       </div>
     </div>
 
-    <div class="text-center mt-24">
+    <div class="text-center my-24">
       <button class="btn bg-secondary">Load More</button>
     </div>
   </div>
